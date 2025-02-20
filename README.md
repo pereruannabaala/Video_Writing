@@ -20,6 +20,6 @@ This project demonstrates how to use OpenCV for video processing, including read
 This project under OpenCV University
 
 ## Author
-Pereruan Nabaala
-pereruannbaala@gmail.com
+- Pereruan Nabaala
+- pereruannbaala@gmail.com
 
