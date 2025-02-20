@@ -10,3 +10,8 @@ This project demonstrates how to use OpenCV for video processing, including read
 - Writing Video Output: Saves processed video files in AVI and MP4 formats.
 - Encoding Conversion: Converts XVID encoded MP4 to H.264 for better playback.
 - YouTube Video Embedding: Displays an example YouTube video for reference.
+
+## Usage
+1. Run the notebook in Colab by clicking the Open in Colab button.
+2. Follow the code sections to read, display, and process video files.
+3. Modify and experiment with different video sources and encoding format
