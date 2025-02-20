@@ -15,3 +15,11 @@ This project demonstrates how to use OpenCV for video processing, including read
 1. Run the notebook in Colab by clicking the Open in Colab button.
 2. Follow the code sections to read, display, and process video files.
 3. Modify and experiment with different video sources and encoding format
+
+## License
+This project under OpenCV University
+
+## Author
+Pereruan Nabaala
+pereruannbaala@gmail.com
+
